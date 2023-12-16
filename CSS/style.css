@@ -1,0 +1,33 @@
+.big-title{
+    font-size: 5rem;
+    font-weight: 700;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+.sm-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.1875rem;
+    font-weight: 400;
+    color: black;
+}
+.btnQuote{
+    width: 15.625rem;
+    height: 5rem;
+    color: #fff;
+    background-color: blue;
+}
+.btnQuote:hover{
+    background-color: green !important;
+}
+#quote{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.1875rem;
+    font-weight: 400;
+    color: black;
+}
+#quoteName{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.1875rem;
+    font-weight: 400;
+    color: black;
+}
